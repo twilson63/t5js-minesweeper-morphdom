@@ -1,0 +1,16 @@
+{
+  "name": "minesweeper-yoyo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "w3 -p ${PORT} --pushstate"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "devDependencies": {
+    "w3": "^0.6.1"
+  }
+}
