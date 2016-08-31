@@ -1,4 +1,4 @@
-//https://npmcdn.com
+//https://unpkg.com
 System.defaultJSExtensions = false
 System.config({
   paths: {
